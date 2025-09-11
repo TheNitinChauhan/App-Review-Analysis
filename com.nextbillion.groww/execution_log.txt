@@ -1,0 +1,12 @@
+Project Start Time: Fri Aug 29 21:32:08 2025
+App Package: com.nextbillion.groww
+
+Step 1: Scraping completed in 1.24 seconds.
+Step 2: Cleaning completed in 2.28 seconds.
+Step 3: VADER Sentiment Analysis completed in 0.06 seconds.
+Step 4: LDA Topic Modeling completed in 1.72 seconds.
+Step 3: Sentiment Analysis completed in 0.17 seconds.
+Step 4: Filtering 1–4 Stars completed in 0.26 seconds.
+Step 5: Auto Categorization (GPT-3.5) completed in 102.07 seconds.
+
+Total execution time: 288.44 seconds (4.81 minutes)

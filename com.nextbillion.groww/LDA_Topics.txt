@@ -1,0 +1,15 @@
+Topic: 0
+Words: 0.034*"app" + 0.026*"best" + 0.012*"user" + 0.012*"friendly" + 0.010*"one" + 0.010*"grow" + 0.010*"trading" + 0.009*"charge" + 0.009*"trade" + 0.008*"u"
+
+Topic: 1
+Words: 0.029*"app" + 0.011*"chart" + 0.010*"money" + 0.008*"grow" + 0.008*"time" + 0.007*"hai" + 0.007*"new" + 0.006*"balance" + 0.006*"stock" + 0.006*"lakh"
+
+Topic: 2
+Words: 0.025*"charge" + 0.025*"app" + 0.015*"time" + 0.009*"order" + 0.009*"high" + 0.009*"application" + 0.008*"brokerage" + 0.007*"money" + 0.006*"5" + 0.006*"experience"
+
+Topic: 3
+Words: 0.048*"good" + 0.040*"app" + 0.018*"hai" + 0.016*"please" + 0.010*"option" + 0.009*"excellent" + 0.008*"data" + 0.007*"like" + 0.006*"customer" + 0.006*"issue"
+
+Topic: 4
+Words: 0.046*"app" + 0.032*"groww" + 0.027*"good" + 0.020*"nice" + 0.013*"trading" + 0.012*"use" + 0.012*"money" + 0.012*"option" + 0.011*"easy" + 0.010*"stock"
+
