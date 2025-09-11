@@ -1,0 +1,12 @@
+Project Start Time: Fri Aug 29 23:37:02 2025
+App Package: com.zerodha.kite3
+
+Step 1: Scraping completed in 1.13 seconds.
+Step 2: Cleaning completed in 2.55 seconds.
+Step 3: VADER Sentiment Analysis completed in 0.09 seconds.
+Step 4: LDA Topic Modeling completed in 2.68 seconds.
+Step 3: Sentiment Analysis completed in 0.16 seconds.
+Step 4: Filtering 1–4 Stars completed in 0.08 seconds.
+Step 5: Auto Categorization (GPT-3.5) completed in 117.97 seconds.
+
+Total execution time: 322.86 seconds (5.38 minutes)

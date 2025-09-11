@@ -1,0 +1,15 @@
+Topic: 0
+Words: 0.050*"app" + 0.034*"good" + 0.020*"support" + 0.019*"service" + 0.018*"best" + 0.018*"trading" + 0.015*"stock" + 0.014*"excellent" + 0.014*"customer" + 0.013*"zerodha"
+
+Topic: 1
+Words: 0.035*"app" + 0.021*"good" + 0.017*"use" + 0.017*"broker" + 0.017*"best" + 0.015*"zerodha" + 0.015*"nice" + 0.013*"easy" + 0.012*"application" + 0.010*"time"
+
+Topic: 2
+Words: 0.021*"chart" + 0.013*"option" + 0.013*"app" + 0.008*"trading" + 0.008*"time" + 0.008*"charge" + 0.007*"price" + 0.007*"please" + 0.007*"experience" + 0.007*"market"
+
+Topic: 3
+Words: 0.030*"zerodha" + 0.026*"app" + 0.015*"experience" + 0.011*"option" + 0.010*"please" + 0.009*"feature" + 0.009*"kite" + 0.009*"user" + 0.008*"add" + 0.008*"best"
+
+Topic: 4
+Words: 0.014*"option" + 0.013*"chart" + 0.012*"feature" + 0.012*"app" + 0.011*"stock" + 0.010*"please" + 0.008*"like" + 0.008*"price" + 0.007*"zerodha" + 0.007*"u"
+
