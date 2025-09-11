@@ -1,0 +1,12 @@
+Project Start Time: Sat Aug 30 00:23:27 2025
+App Package: com.instagram.android
+
+Step 1: Scraping completed in 1.06 seconds.
+Step 2: Cleaning completed in 2.39 seconds.
+Step 3: VADER Sentiment Analysis completed in 0.05 seconds.
+Step 4: LDA Topic Modeling completed in 1.81 seconds.
+Step 3: Sentiment Analysis completed in 0.12 seconds.
+Step 4: Filtering 1–4 Stars completed in 0.10 seconds.
+Step 5: Auto Categorization (GPT-3.5) completed in 87.94 seconds.
+
+Total execution time: 201.73 seconds (3.36 minutes)
